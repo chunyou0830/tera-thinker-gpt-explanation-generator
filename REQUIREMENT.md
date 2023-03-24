@@ -19,8 +19,6 @@ Finish an API to read in a question (including it's options and correct answer).
 ## 4. Preparation Before Starting
 ### 4-1. Get API Key
 You need to get a OpenAI API Key before you can use Python (or any other programming language) to call ChatGPT or other OpenAI services.
-TBD STEPS.
 
 ### 4-2. Install `openai` Package For Your Python Environment
 In order to call OpenAI service with Python, we must install the official `openai` package in your python environment. 
-TBD STEPS.
