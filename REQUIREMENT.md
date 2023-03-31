@@ -14,7 +14,7 @@ Finish an API to read in a question (including it's options and correct answer).
 3. **Pack & Deploy the API**: (Would be done in our next meeting) Pack the whole processing flow as an online API and deploy to our AWS cloud server.
 
 ## 3. Files List
-* `sandbox.py`: 
+* `gpt.py`: 
 
 ## 4. Preparation Before Starting
 ### 4-1. Get API Key
